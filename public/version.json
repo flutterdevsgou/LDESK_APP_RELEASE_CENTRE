@@ -2,5 +2,5 @@
   "version": "1.0",
   "build": "1",
   "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.0/LDesk.apk",
-  "notes": "-Fix: Updated UI on apdashboard cards to scroll gesture\nThis is a beta version\n-Fix: Redesignes the Learner Dashboard UI to match with AP\n-Fix: rearranged cards in learner dashboard"
+  "notes": "-Fix: Updated UI on apdashboard cards to scroll gesture\nThis is a beta version\n-Fix: Redesignes the Learner Dashboard UI to match with AP\n-Fix: rearranged cards in learner dashboard\n-Fix: Removed unused settings UI on settings page"
 }
