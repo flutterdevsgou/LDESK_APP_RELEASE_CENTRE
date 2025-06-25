@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.2",
   "build": "1",
   "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.0.2/LDesk.apk",
   "notes": "-Fix: Many UI updates in settings page , Ap dashboard , Learner dashboard\n-Added: Many new pages added including learner info page and Drawer feature for AP"
