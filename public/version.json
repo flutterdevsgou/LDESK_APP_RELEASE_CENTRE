@@ -1,6 +1,6 @@
 {
   "version": "1.0",
   "build": "1",
-  "apkUrl": "https://github.com/vishnu1100/ReactNativeAppUpdatesInfo/releases/download/V1.0/Ldesk.apk",
-  "notes": "- Fix: UIupdate\n- Fix: Major changes in settings Page\n- Give more feedbacks"
+  "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.0/LDesk.apk",
+  "notes": "Initial build"
 }
