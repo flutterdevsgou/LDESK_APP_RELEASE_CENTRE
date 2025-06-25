@@ -3,7 +3,7 @@ Alpha Apple
 
 Beta Banana
 
-Cherry Chip
+Cherry Chip   = versionName "1.0.2"
 
 Dragonfruit Drop
 
