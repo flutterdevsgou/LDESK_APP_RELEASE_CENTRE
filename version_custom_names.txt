@@ -3,9 +3,9 @@ Alpha Apple
 
 Beta Banana
 
-Cherry Chip   = versionName "1.0.2"
+Cherry Chip  
 
-Dragonfruit = versionName "1.0.4
+Dragonfruit 
 
 Elderberry Edge
 
