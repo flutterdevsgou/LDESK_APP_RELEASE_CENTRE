@@ -2,5 +2,5 @@
   "version": "1.0.5",
   "build": "1",
   "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.0.5/LDesk.apk",
-  "notes": "-Fixed: Glitchy login screen\n-Optimized: Proper transportation of  newpassword with server "
+  "notes": "-Fixed: Glitchy login screen\n-Optimized: Proper transportation of newpassword with server\n-Fix: New events page "
 }
