@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "build": "1",
-  "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.0.6/LDesk.apk",
-  "notes": "-Fixed: Glitchy login screen\n-Optimized: Proper transportation of newpassword with server\n-Fix: New events page "
+  "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.0.7/LDesk.apk",
+  "notes": "- Feature: Implemented a carousel to display events and notices on the Learner and AP dashboards."
 }
