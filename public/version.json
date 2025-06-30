@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "build": "1",
-  "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.0.7/LDesk.apk",
-  "notes": "- Feature: Implemented a carousel to display events and notices on the Learner and AP dashboards."
+  "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.0.8/LDesk.apk",
+  "notes": "-Feature: Implementation of LayerSeek AI personal Assistant for AP"
 }
