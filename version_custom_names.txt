@@ -3,7 +3,7 @@ Alpha Apple
 
 Beta Banana
 
-Cherry Chip  
+Cherry Chip  -  V1.0.0  < V1.0.8
 
 Dragonfruit 
 
