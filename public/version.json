@@ -2,5 +2,5 @@
   "version": "1.0.8",
   "build": "1",
   "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.0.8/LDesk.apk",
-  "notes": "-Feature: Implementation of LayerSeek AI personal Assistant for AP"
+  "notes": "- Fix: The Feedback section has been added to the Settings page. We appreciate your feedback."
 }
