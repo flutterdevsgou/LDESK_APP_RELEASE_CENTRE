@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.10",
   "build": "1",
   "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.0.8/LDesk.apk",
   "notes": "- Fix: Notice board UI bug has been resolved\n- Feature: Programme filtering is now available on the AP Dashboard\n- Fix: Virtual content section is now available in the Learner Dashboard\n- Fix: General UI improvements and enhanced user experience"
