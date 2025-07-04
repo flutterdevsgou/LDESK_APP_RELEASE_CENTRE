@@ -2,5 +2,5 @@
   "version": "1.0.9",
   "build": "1",
   "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.0.9/LDesk.apk",
-  "notes": "- Fix: Established proper communication with the backend server, resolving the API programming listing bug"
+  "notes": "- Fix: Established proper communication with the backend server, resolving the AP programme listing bug"
 }
