@@ -2,5 +2,6 @@
   "version": "1.1.1",
   "build": "1",
   "apkUrl": "https://github.com/flutterdevsgou/LDESK_APP_RELEASE_CENTRE/releases/download/V1.1.1/LDesk.apk",
-  "notes": "- Fix: Reworked app navigation from bottom tabs to an in-app drawer for both Assistant Professors and Learners."
+  "notes": "- 🔄 **Navigation Update**: Switched from bottom tabs to an in-app drawer for a smoother experience for both Assistant Professors and Learners.\n- 📚 **New Feature**: Virtual Content section is now available for Assistant Professors.\n- 🐞 **Bug Fixes**: Minor UI glitches have been resolved.\n- 🌐 **Network Improvements**: Fixed connectivity and performance-related issues.\n- 🚀 **Performance**: Optimized app speed and responsiveness for a better user experience."
+
 }
